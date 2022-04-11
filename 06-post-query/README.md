@@ -1,5 +1,5 @@
-## 05-get-query
-An example of GET query in express
+## 06-post-query
+An example of POST query in express
 
 ### Running the application
   - `npm install`
