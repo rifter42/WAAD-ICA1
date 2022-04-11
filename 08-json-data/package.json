@@ -1,7 +1,7 @@
 {
-  "name": "07-serving-static-files",
+  "name": "08-json-data",
   "version": "1.0.0",
-  "description": "Serving static files in express",
+  "description": "An example of accepting JSON data in express",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
