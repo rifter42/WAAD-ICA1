@@ -1,0 +1,14 @@
+{
+  "name": "04-http-methods",
+  "version": "1.0.0",
+  "description": "A demonstration of the most common HTTP request methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
