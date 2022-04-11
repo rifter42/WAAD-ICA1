@@ -3,7 +3,7 @@ An example of different ways to work with routes in express
 
 ### Running the application
   - `npm install`
-  - `node app.js`
+  - `node index.js`
 
 The application will be available at: `http://localhost:3000/`
 
